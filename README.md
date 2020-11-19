@@ -17,7 +17,7 @@ The evaluation metric that is used for this problem is the r2_score.
 ## Link to the challenge
 https://www.hackerearth.com/challenges/competitive/hackerearth-machine-learning-challenge-predict-burnout-rate/problems/
 
-I was a great learning experience for me which added an extra dimension to my ML journey and I thank HackerEarth for providing such exciting challenges
+## P.S.
+I was a great learning experience for me which added an extra dimension to my ML journey and I thank HackerEarth for providing such exciting challenges.
 
-## P.S
 It was my first ever challenge and stood 74h with the score of **92.69** out of 506 participants
