@@ -20,4 +20,4 @@ https://www.hackerearth.com/challenges/competitive/hackerearth-machine-learning-
 I would like to appreciate
 
 ## P.S
-It was my first ever challenge and stood 74h with the score of **92.69439** out of 506 participants
+It was my first ever challenge and stood 74h with the score of **92.69** out of 506 participants
