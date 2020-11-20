@@ -20,4 +20,4 @@ https://www.hackerearth.com/challenges/competitive/hackerearth-machine-learning-
 ## P.S.
 I was a great learning experience for me which added an extra dimension to my ML journey and I thank HackerEarth for providing such exciting challenges.
 
-It was my first ever challenge and stood 74h with the score of **92.69** out of 506 participants
+It was my first ever challenge and stood 75h with the score of **92.69** out of 600 participants
